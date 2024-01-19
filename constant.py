@@ -1,0 +1,6 @@
+openai_key_1='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'
+openai_key_2 ='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'
+
+ankit_read_hf_tokens=	"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"
+ankit_write_hf_tokens=	"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"
+
